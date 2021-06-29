@@ -1,4 +1,4 @@
-module viper-etcd
+module github.com/shish-dev/viper-etcd
 
 go 1.14
 
